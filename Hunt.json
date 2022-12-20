@@ -1,0 +1,10 @@
+{
+    "imagesZipUri": "file://C:/Users/Ярослав Белышев/Pictures/HuntDynamic",
+    "imageFilename": "Hunt*.jpg",
+    "dayImageList": [
+        1,
+    ],
+    "nightImageList": [
+        2
+    ]
+}
