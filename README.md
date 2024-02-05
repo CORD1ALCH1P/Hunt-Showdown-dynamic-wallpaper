@@ -1,5 +1,5 @@
 # Hunt-Showdown
-This is wallpaper for WinDynamicDesktop
+This wallpaper for WinDynamicDesktop
 
 How to use it: 
 
